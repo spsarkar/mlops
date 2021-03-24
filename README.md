@@ -23,3 +23,7 @@ https://github.com/seigenbrode/mlops-sagemaker-jenkins-byo-advanced
 
 ## MLOps with Mlflow
 https://www.slideshare.net/databricks/productionalizing-models-through-cicd-design-with-mlflow
+
+
+## Devops Culture and books
+https://gist.github.com/tombasche/670caaee876f5bfb97cca12ab354285a
