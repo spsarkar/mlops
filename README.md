@@ -31,5 +31,6 @@ https://gist.github.com/tombasche/670caaee876f5bfb97cca12ab354285a
 
 ## MLOps blogs Primer
 https://elvissaravia.substack.com/p/mlops-primer-2021
+
 https://huyenchip.com/2020/12/30/mlops-v2.html
 
