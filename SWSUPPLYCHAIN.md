@@ -3,3 +3,5 @@
 3. A vulnerability scanner for container images and filesystems( https://github.com/anchore/grype )
 4. A standard for signing, verifying and protecting software ( https://www.sigstore.dev/ )
 5. Score development ( https://score.dev/ )
+6. Platform Engineering ( https://platformengineering.org/ )
+7. Platformcon ( https://platformcon.com/ )
