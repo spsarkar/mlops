@@ -1,0 +1,4 @@
+1. SLSA ( https://slsa.dev/spec/v0.1/requirements )
+2.  Software Bill of Materials ( https://github.com/anchore/syft )
+3.  A vulnerability scanner for container images and filesystems( https://github.com/anchore/grype )
+4.  A standard for signing, verifying and protecting software ( https://www.sigstore.dev/ )
